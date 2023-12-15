@@ -1,4 +1,4 @@
 # Calculadora
-Calculadora feita em python
+Calculadora feita em Python
 
 
